@@ -1,0 +1,1 @@
+# Diabetes_prediction_of_patient_using_logistic_regression
